@@ -4,7 +4,7 @@ A django application which accepts API requests to perform application of coupon
 Steps to run the project:
 1. Ensure python3 is installed and open command prompt in admin mode.
 
-2. Go to project base folder i.e. "path to project base folder"/Mirraw
+2. Go to project base folder i.e. "path to project base folder"/Mirraw/mirraw_website/
    Run below command:
    virtualenv .
 	
