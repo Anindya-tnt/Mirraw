@@ -11,18 +11,23 @@ Steps to run the project:
    virtualenv .
 	
 3. Run command to activate virtualenv:
+   
    Scripts\activate
    
 4. Run command to install package requirements:
+   
    pip install -r requirements.txt
    
 5. Run command to migrate db models
+   
    python manage.py migrate
    
 6. Run command to start Django server in local dev environment
+   
    python manage.py runserver
    
 7. Hit the following URL for getting the list of APIs supported in the Django application
+   
    http://localhost:8000/api/
 
    Although the documentation is supported by coreapi, it is recommended to test the APIs using postman application.
