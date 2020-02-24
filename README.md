@@ -7,6 +7,7 @@ Steps to run the project:
 2. Go to project base folder i.e. "path to project base folder"/Mirraw/mirraw_website/
 
    Run below command:
+   
    virtualenv .
 	
 3. Run command to activate virtualenv:
