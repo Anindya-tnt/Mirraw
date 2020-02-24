@@ -37,8 +37,11 @@ Steps to run the project:
     http://localhost:8000/admin/
 
     If prompted, use the following:
+    
     Username: admin
+    
     Password: 11111111
+    
     Please feel free add rows to the db tables.
 
 9. For testing the APIs, please refer to the api documentation as aforesaid in point 7 above.
