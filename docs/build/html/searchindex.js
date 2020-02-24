@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["Mirraw"],envversion:55,filenames:["Mirraw.rst"],objects:{},objnames:{},objtypes:{},terms:{index:0,modul:0,page:0,search:0},titles:["Welcome to Mirraw\u2019s documentation!"],titleterms:{document:0,indic:0,mirraw:0,tabl:0,welcom:0}})
